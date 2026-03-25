@@ -233,7 +233,7 @@ Both approaches demonstrate how SOC analysts perform manual and automated invest
 ## 📸 Screenshots
 
 ```markdown
-![Windows Failed Logins](screenshots/failed-logins.png)
+![Windows Failed Logins]failed-logins.png
 ![Windows Event Details](screenshots/event-details.png)
 ![Linux Analysis](screenshots/linux-analysis.png)
 ![Python Output](screenshots/python-output.png)
