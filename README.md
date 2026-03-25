@@ -234,14 +234,6 @@ Both approaches demonstrate how SOC analysts perform manual and automated invest
 <<<<<<< HEAD
 ### 🔐 Failed Login Attempts
 ![Failed Logins](screenshots/failed-logins.png)
-=======
-```markdown
-failed-logins.png
-![Windows Event Details](screenshots/event-details.png)
-![Linux Analysis](screenshots/linux-analysis.png)
-![Python Output](screenshots/python-output.png)
-```
->>>>>>> 2e4be3248309ae9924ed0c0ce2bf96892d3ff933
 
 ### 🔑 Successful Logins
 ![Success Logins](screenshots/success-logins.png)
@@ -260,7 +252,12 @@ failed-logins.png
 
 ### 🧾 Administrative Events
 ![Administrative Events](screenshots/administrative-events.png)
----
+
+### 🐧 Linux Log Analysis
+![Linux Analysis](screenshots/linux-analysis.png)
+
+### 🤖 Python Output
+![Python Output](screenshots/python-output.png)
 
 ## 🎯 Key Takeaways
 
