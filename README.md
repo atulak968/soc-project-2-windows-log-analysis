@@ -229,16 +229,28 @@ Two different analysis approaches were used:
 Both approaches demonstrate how SOC analysts perform manual and automated investigations.
 
 ---
-
 ## 📸 Screenshots
 
-```markdown
-![Windows Failed Logins](screenshots/failed-logins.png)
-![Windows Event Details](screenshots/event-details.png)
-![Linux Analysis](screenshots/linux-analysis.png)
-![Python Output](screenshots/python-output.png)
-```
+### 🔐 Failed Login Attempts
+![Failed Logins](screenshots/failed-logins.png)
 
+### 🔑 Successful Logins
+![Success Logins](screenshots/success-logins.png)
+
+### 📄 Event Details
+![Event Details](screenshots/event-details.png)
+
+### 🛡️ Security Logs
+![Security Logs](screenshots/security-logs.png)
+
+### ⚙️ System Logs
+![System Logs](screenshots/system-logs.png)
+
+### 📊 Application Logs
+![Application Logs](screenshots/application-logs.png)
+
+### 🧾 Administrative Events
+![Administrative Events](screenshots/administrative-events.png)
 ---
 
 ## 🎯 Key Takeaways
