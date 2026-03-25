@@ -234,7 +234,6 @@ Both approaches demonstrate how SOC analysts perform manual and automated invest
 <<<<<<< HEAD
 ### 🔐 Failed Login Attempts
 ![Failed Logins](screenshots/failed-logins.png)
->>>>>>> 2e4be3248309ae9924ed0c0ce2bf96892d3ff933
 
 ### 🔑 Successful Logins
 ![Success Logins](screenshots/success-logins.png)
